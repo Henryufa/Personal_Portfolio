@@ -67,7 +67,7 @@ export const contactData = {
 };
 
 // FOOTER DATA
-
+/*
 export const footerData = {
   networks: [
     {
@@ -92,6 +92,7 @@ export const footerData = {
     },
   ],
 };
+*/
 
 // Github start/fork buttons
 export const githubButtons = {
