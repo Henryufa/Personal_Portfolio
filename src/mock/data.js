@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Henry Bahr',
-  subtitle: 'I am the best candidate for your internship',
+  subtitle: 'Thank you for visiting my website',
   cta: '',
 };
 
@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'red_sweater.jpg',
   paragraphOne:
-    'I am a future mechanical engineer with field and coding experience. I am seeking an internship that will push me to grow as a software developer and/or mechanical engineer. This experience should push me to implement complex solutions like machine learning to solve modern problems and launch polished products fit for industrial use and commercial consumption.',
+    'I am a future mechanical engineer with field and coding experience. I am seeking an internship that will help me grow as a software developer and/or mechanical engineer. This experience should push me to implement complex solutions like machine learning to solve modern problems and launch polished products fit for industrial use and commercial consumption.',
   paragraphTwo:
-    'I expect to finish a bachelors degree in mechanical engineering with minors in math and computer science December of 2022, then begin my masters in computer science.',
+    "I expect to finish a bachelor's degree in mechanical engineering with minors in math and computer science December of 2022, then begin my master's in computer science.",
   paragraphThree: 'I enjoy disc golf, weight lifting, and challenging myself to learn new things.',
   resume:
     'https://docs.google.com/document/d/1HmeZhDqHRiy8VtSGLjpfwkToRUDCcf1rLUqDUnBXo6Y/edit?usp=sharing', // if no resume, the button will not show up
@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Elite_Octane.jpg',
     title: 'Internship at Elite Octane',
-    info: 'I interned at Elite Octane as a Lab Technician and Plant Operator from June-August, 2021. While I was there I: Developed a  systematic method for converting spreadsheet data to formatted employee knowledge tests in Microsoft Word, executed 5 independent experiments using small scale fermentation to improve ethanol yields, and managed the energy production center independently adjusting parameters to correct product composition as needed.',
+    info: 'I interned at Elite Octane as a Lab Technician and Plant Operator from June-August, 2021. While I was there I: developed a  systematic method for converting spreadsheet data to formatted employee knowledge tests in Microsoft Word, executed 5 independent experiments using small scale fermentation to improve ethanol yields, and managed the energy production center independently adjusting parameters to correct product composition as needed.',
     info2: '',
     url: 'https://www.eliteoctane.net/',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -44,7 +44,7 @@ export const projectsData = [
     title: 'School of Study',
     info: 'I am attending the University of Missouri in Columbia, and have a GPA of 3.944. I am taking mechanical engineering, computer science, and math courses and plan to begin computer science research next semester.',
     info2:
-      'Upon graduating I will begin my masters degree in computer science. I expect to finish my masters December 2023, and I am excited to perform research in machine learning and high performance computing.',
+      "Upon graduating I will begin my master's degree in computer science. I expect to finish my master's December 2023, and I am excited to perform research in machine learning and high performance computing.",
     url: 'https://missouri.edu/',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
