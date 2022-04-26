@@ -19,9 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'red_sweater.jpg',
   paragraphOne:
-    'I am a future mechanical engineer with field and coding experience. I am seeking an internship that will help me grow as a software developer and/or mechanical engineer. This experience should push me to implement complex solutions like machine learning to solve modern problems and launch polished products fit for industrial use and commercial consumption.',
-  paragraphTwo:
-    "I expect to finish a bachelor's degree in mechanical engineering with minors in math and computer science December of 2022, then begin my master's in computer science.",
+    'I am a future software devloper with applied experience. I am seeking an internship that will help me grow as a software developer. This experience should push me to solve modern problems and launch polished products fit for industrial use and commercial consumption.',
+  paragraphTwo: "I expect to finish a bachelor's degree in computer science December 2023.",
   paragraphThree: 'I enjoy disc golf, weight lifting, and challenging myself to learn new things.',
   resume:
     'https://docs.google.com/document/d/1HmeZhDqHRiy8VtSGLjpfwkToRUDCcf1rLUqDUnBXo6Y/edit?usp=sharing', // if no resume, the button will not show up
